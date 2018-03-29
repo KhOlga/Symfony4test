@@ -10,8 +10,9 @@ html {height:100%}
 /* NAVIGATION */
 
 .navbar-bg {
-    background: url('../images/space-nav.jpg');
-    background-size: 80%;
+    background: url('../images/nav_header.jpg');
+    background-size: cover;
+    /*background-size: 80%;*/
 }
 
 .dropdown-menu, .dropdown-menu.show {
